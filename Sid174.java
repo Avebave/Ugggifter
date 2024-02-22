@@ -49,7 +49,7 @@ public class Sid174 {
         for (int i = 0; i < 12 ; i++) {
             if (tid.contains(MånArray[i])){
                 if (i < 10) {
-                    Månad = "0" + (i+1);
+                    Månad = "0" + (i++);
                 }
 
                 else {
