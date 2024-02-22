@@ -53,7 +53,7 @@ public class Sid174 {
                 }
 
                 else {
-                    Månad = ""+(i+1);
+                    Månad = ""+(i++);
                 }
             }
 
